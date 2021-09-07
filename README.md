@@ -1,10 +1,10 @@
 # Music-App-Theme
 This Is Theme Of A Music App
 
-##Todo List 
-
 ---
 ```
+##Todo List 
+
 1.Add animation when listen component has been opened
 2.Add browser history for locations 
 3.Add settings page 
