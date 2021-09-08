@@ -1,7 +1,7 @@
 # Music-App-Theme
 This Is Theme Of A Music App
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://thumbs.gfycat.com/NaughtyGlaringGoldenretriever-mobile.mp4)
+[![Watch the video](https://thumbs.gfycat.com/NaughtyGlaringGoldenretriever-mobile.mp4)](https://thumbs.gfycat.com/NaughtyGlaringGoldenretriever-mobile.mp4)
 ---
 ## Todo List 
 
